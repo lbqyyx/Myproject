@@ -1,0 +1,24 @@
+ul{list-style:none;}
+a:hover{text-decoration: none;}
+
+.navbar{font-size:12px;}
+
+.jumbotron{text-align: center;padding-top:80px;margin-bottom: 0px;}
+.jumbotron h2{font-size:2rem;}
+
+.ULcontainer{text-align: center;padding:10px 0 8px;border-bottom:1px solid #eee;}
+.UL{overflow: hidden;display:inline-block;margin:0;padding:0;}
+.UL li{float:left;}
+.UL li:nth-child(2){margin:0 8px;}
+
+.DIV{text-align: center;}
+.DIV>div:nth-child(1)>p{color:#666;}
+.DIV>div:nth-child(1)>p span{color:#000;}
+.DIV>.row .thumbnail{height:288px;overflow: hidden;}
+.DIV>.row h3{font-size: 20px;}
+
+.footer ul{padding-left:20px;}
+.footer p{margin-top: 15px;}
+
+
+
